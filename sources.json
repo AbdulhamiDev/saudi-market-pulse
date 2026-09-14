@@ -1,0 +1,8 @@
+{
+  "retrieved_at": null,
+  "sources": {
+    "sama_pos": {"status": "not_fetched", "url": "https://sama.gov.sa/en-US/Statistics/Indices/pages/pos.aspx", "files": []},
+    "sama_money_supply": {"status": "not_fetched", "url": "https://sama.gov.sa/ar-sa/Statistics/Indices/pages/weeklymoneysupply.aspx", "files": []},
+    "cma_open_data": {"status": "not_fetched", "url": "https://cma.gov.sa/AboutCMA/ResearchAndReports/opendata/Pages/default.aspx", "files": []}
+  }
+}
